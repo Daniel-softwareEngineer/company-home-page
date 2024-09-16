@@ -79,6 +79,3 @@ Project provided by Codecademy in Making a Website Responsive module after cover
 * Responsive Design
 * Layout with Flexbox
 * Grids and Spacing
-
-## Contact
-Created by Claudia de Lima [@claugia13](https://github.com/claugia13) - feel free to contact me!
